@@ -1,3 +1,10 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 # Path to oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 export TERM="xterm-256color"
@@ -37,7 +44,7 @@ plugins=(alias-tips
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Powerlevel9k
-POWERLEVEL9K_MODE="nerdfont-complete"
+# POWERLEVEL9K_MODE="nerdfont-complete"
 
 # Prompt
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
@@ -237,4 +244,3 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-
