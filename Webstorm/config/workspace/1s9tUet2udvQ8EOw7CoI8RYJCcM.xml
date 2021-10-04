@@ -1,0 +1,1117 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/services/statistics/face/face-analyzer.ts" description="FACE_ANALYZER" line="11" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/profile-jobs.handler.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jobs/initiate-jobs.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#43#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/http-client.env.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/messaging/client.messaging.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="37" column="103" lean-forward="true" selection-start-line="37" selection-start-column="103" selection-end-line="37" selection-end-column="103" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/logger/instance-id-provider.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/potential-influencers/potential-influencer.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/potential-influencers/potential-influencer.repository.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/potential-influencers/potential-influencer.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.queue.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;&amp;</find>
+      <find>SET</find>
+      <find>set</find>
+      <find>set&lt;</find>
+      <find>instancesUnderConstruction</find>
+      <find>map&lt;</find>
+      <find>array</find>
+      <find>face</find>
+      <find>FaceJobsService</find>
+      <find>tweet</find>
+      <find>cassa</find>
+      <find>KRYSTAL_BASE_URL</find>
+      <find>KRYSTAL_BASE_URI</find>
+      <find>KRYSTAL_API_KEY</find>
+      <find>elast</find>
+      <find>hrear</find>
+      <find>twitter-api</find>
+      <find>cass</find>
+      <find>yoda</find>
+      <find>aug</find>
+      <find>.len</find>
+      <find>.leng</find>
+      <find>interestCate</find>
+      <find>computeEngagementJob</find>
+      <find>redis</find>
+      <find>:</find>
+      <find>Error Fetching interests via the api. Tweets payload</find>
+      <find>ratel</find>
+      <find>mark-infl</find>
+      <find>uuid</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+      <replace>twitter-api</replace>
+      <replace>twitter</replace>
+      <replace>getInfluencerJobsService(instanceManager)</replace>
+      <replace>=</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/services/profiles</dir>
+      <dir>$PROJECT_DIR$/src/services/statistics/interests</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/services</dir>
+      <dir>$PROJECT_DIR$/src/services/statistics/audience</dir>
+      <dir>$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler</dir>
+      <dir>$PROJECT_DIR$/src/jobs/influencer-jobs</dir>
+      <dir>$PROJECT_DIR$/src/jobs</dir>
+      <dir>$PROJECT_DIR$/src/messaging</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/followers-jobs.handler.ts" />
+      <option value="$PROJECT_DIR$/src/services/tweets/types.ts" />
+      <option value="$PROJECT_DIR$/src/services/statistics/face/face-analyzer.ts" />
+      <option value="$PROJECT_DIR$/src/data-api/common/utils.ts" />
+      <option value="$PROJECT_DIR$/src/store/schema.ddl" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/tweets-jobs.handler.ts" />
+      <option value="$PROJECT_DIR$/src/utils/validate-api-keys/validate-api-keys.ts" />
+      <option value="$PROJECT_DIR$/src/data-api/common/twitter-keys.json" />
+      <option value="$PROJECT_DIR$/src/data-api/common/twitter-request-service.ts" />
+      <option value="$PROJECT_DIR$/src/data-api/common/validate-api-keys/validate-api-keys.ts" />
+      <option value="$PROJECT_DIR$/src/services/statistics/interests/interest-analyzer.ts" />
+      <option value="$PROJECT_DIR$/src/services/tweets/tweets.repository.ts" />
+      <option value="$PROJECT_DIR$/src/services/tweets/tweets.service.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/index.ts" />
+      <option value="$PROJECT_DIR$/src/migration/interest-migration.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/tweet-interests.handler.ts" />
+      <option value="$PROJECT_DIR$/src/services/statistics/audience/distribution-calculator.ts" />
+      <option value="$PROJECT_DIR$/src/services/statistics/types.ts" />
+      <option value="$PROJECT_DIR$/src/store/migration.ddl" />
+      <option value="$PROJECT_DIR$/src/services/statistics/statistics.repository.ts" />
+      <option value="$PROJECT_DIR$/src/services/statistics/statistics.service.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/statistics-jobs.handler.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/profile-jobs.handler.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.service.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/types.ts" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/src/data-api/playground.ts" />
+      <option value="$PROJECT_DIR$/app.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/src/jobs/jobs.queue.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.queue.ts" />
+      <option value="$PROJECT_DIR$/src/jobs/initiate-jobs.ts" />
+      <option value="$PROJECT_DIR$/src/messaging/client.messaging.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="27" width="1860" height="1053" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="audience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="api-rate-limiters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tweets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tweets" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tweets" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data-api" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="face-jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="influencer-jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="influencer-jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="influencer-jobs.handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="recurring-jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="messaging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="followers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="potential-influencers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="profiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="recurring-job-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="audience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="engagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="face" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="interests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="tweets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="user-labels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="logger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pubsub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="scheduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="twitter-api-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="177698000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20703125" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45816928" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5002636" side_tool="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40600395" />
+      <window_info anchor="bottom" id="File Transfer" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.33021653" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3617126" />
+      <window_info anchor="bottom" id="Flow" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3295964" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" weight="0.3295964" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.53100395" />
+      <window_info anchor="bottom" id="TODO" order="15" sideWeight="0.49973643" weight="0.3295964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" width="875" height="541" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628159491090">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" width="875" height="541" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628159491090" />
+    <state x="643" y="290" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1623158289655">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="643" y="290" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1623158289655" />
+    <state x="525" y="152" width="860" height="810" key="CommitChangelistDialog2" timestamp="1624564938552">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="525" y="152" width="860" height="810" key="CommitChangelistDialog2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624564938552" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog" timestamp="1624615552482">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624615552482" />
+    <state x="743" y="311" width="476" height="491" key="FileChooserDialogImpl" timestamp="1623756164515">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="476" height="491" key="FileChooserDialogImpl/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1623756164515" />
+    <state width="1898" height="384" key="GridCell.Tab.0.bottom" timestamp="1628168540693">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.0.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540693" />
+    <state width="1898" height="384" key="GridCell.Tab.0.center" timestamp="1628168540691">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.0.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540691" />
+    <state width="1898" height="384" key="GridCell.Tab.0.left" timestamp="1628168540689">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.0.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540689" />
+    <state width="1898" height="384" key="GridCell.Tab.0.right" timestamp="1628168540692">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.0.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540692" />
+    <state width="1898" height="384" key="GridCell.Tab.1.bottom" timestamp="1628168540696">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.1.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540696" />
+    <state width="1898" height="384" key="GridCell.Tab.1.center" timestamp="1628168540695">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.1.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540695" />
+    <state width="1898" height="384" key="GridCell.Tab.1.left" timestamp="1628168540694">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.1.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540694" />
+    <state width="1898" height="384" key="GridCell.Tab.1.right" timestamp="1628168540696">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.1.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540696" />
+    <state width="1898" height="384" key="GridCell.Tab.2.bottom" timestamp="1628168540704">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.2.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540703" />
+    <state width="1898" height="384" key="GridCell.Tab.2.center" timestamp="1628168540701">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.2.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540701" />
+    <state width="1898" height="384" key="GridCell.Tab.2.left" timestamp="1628168540697">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.2.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540697" />
+    <state width="1898" height="384" key="GridCell.Tab.2.right" timestamp="1628168540703">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.2.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540703" />
+    <state width="1898" height="384" key="GridCell.Tab.3.bottom" timestamp="1628168540706">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.3.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540706" />
+    <state width="1898" height="384" key="GridCell.Tab.3.center" timestamp="1628168540705">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.3.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540705" />
+    <state width="1898" height="384" key="GridCell.Tab.3.left" timestamp="1628168540704">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.3.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540704" />
+    <state width="1898" height="384" key="GridCell.Tab.3.right" timestamp="1628168540706">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="384" key="GridCell.Tab.3.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628168540706" />
+    <state x="26" y="121" width="1845" height="879" key="MergeDialog" timestamp="1624560221277">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="26" y="121" width="1845" height="879" key="MergeDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624560221277" />
+    <state x="592" y="308" width="726" height="497" key="MultipleFileMergeDialog" timestamp="1624560221313">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="592" y="308" width="726" height="497" key="MultipleFileMergeDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624560221313" />
+    <state x="716" y="174" width="477" height="765" key="RollbackChangesDialog" timestamp="1626022552814">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="716" y="174" width="477" height="765" key="RollbackChangesDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626022552814" />
+    <state x="654" y="189" width="1022" height="737" key="SettingsEditor" timestamp="1623175134173">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="654" y="189" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1623175134173" />
+    <state x="689" y="284" width="540" height="540" key="StructurePopup" timestamp="1624514327020">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="689" y="284" width="540" height="540" key="StructurePopup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624514327020" />
+    <state x="738" y="152" width="434" height="810" key="VCS.ChangeListViewerDialog" timestamp="1622488133297">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="738" y="152" width="434" height="810" key="VCS.ChangeListViewerDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1622488133297" />
+    <state x="803" y="461" width="303" height="191" key="VCS.ChangelistChooser" timestamp="1626022548472">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="803" y="461" width="303" height="191" key="VCS.ChangelistChooser/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626022548472" />
+    <state x="793" y="425" width="324" height="264" key="VCS.EditChangelistDialog" timestamp="1621452108543">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="793" y="425" width="324" height="264" key="VCS.EditChangelistDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1621452108543" />
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1624564940319">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624564940319" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1624471097545">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624471097545" />
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1620298715435">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620298715435" />
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621451662401">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1621451662401" />
+    <state x="478" y="154" width="954" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624615172507">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="478" y="154" width="954" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1624615172507" />
+    <state x="729" y="466" width="461" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628159326606">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="729" y="466" width="461" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628159326606" />
+    <state x="729" y="466" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1623158265894" />
+    <state x="652" y="276" width="901" height="665" key="find.popup" timestamp="1628228717861">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="652" y="276" width="901" height="665" key="find.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628228717861" />
+    <state x="652" y="276" width="901" height="665" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1624871050313" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1622750305615">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1622750305615" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1628228714218">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628228714218" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/common/collection.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1326" column="136" selection-start-line="1326" selection-start-column="132" selection-end-line="1326" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/model-mapper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="119" column="52" lean-forward="true" selection-start-line="119" selection-start-column="52" selection-end-line="119" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/statistics.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/tweets/tweets.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/tweets/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/migration.ddl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/scheduler/job-schedule.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data-api/playground.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/request.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/tweet-interests.handler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/statistics.repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/influencer-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/statistics.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/followers/followers.repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/face-jobs/face-jobs.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/face-jobs/face-jobs.queue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/engagement/engagement-calculator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/interests/interest-analyzer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/face/face-analyzer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/face-jobs/face-jobs.handler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/scheduler/scheduler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="221" column="55" selection-start-line="221" selection-start-column="55" selection-end-line="221" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/bull/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="520" column="4" selection-start-line="520" selection-start-column="4" selection-end-line="520" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/recurring-job-config/recurring-job-config.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1124">
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/jobs.queue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="56" column="44" lean-forward="true" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/recurring-jobs/recurring-jobs.handler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3376">
+          <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messaging/analysis.messaging.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="22" column="69" lean-forward="true" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/followers/followers.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/statistics/audience/distribution-calculator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/statistics-jobs.handler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/recurring-jobs/recurring-jobs.queue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/recurring-job-config/recurring-job-config.repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/recurring-job-config/recurring-job-config.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="62" lean-forward="true" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/server/recurring-jobs-controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/server/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/recurring-jobs/recurring-jobs.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.handler/profile-jobs.handler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/initiate-jobs.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#43#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/http-client.env.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/logger/instance-id-provider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/potential-influencers/potential-influencer.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/potential-influencers/potential-influencer.repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/potential-influencers/potential-influencer.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jobs/influencer-jobs/influencer-jobs.queue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messaging/client.messaging.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="103" lean-forward="true" selection-start-line="37" selection-start-column="103" selection-end-line="37" selection-end-column="103" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

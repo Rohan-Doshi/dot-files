@@ -1,0 +1,592 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/workspace/holiday-finder">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296726719" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570601371253" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/holiday-finder/react-redux-tutorial-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296714442" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570710106134" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/holiday-finder/react-redux-tutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296714442" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570710444945" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/holiday-finder/SendBird-JavaScript/react-native-redux-sample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296714442" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570711415132" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/holiday-finder/holidayFinder">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296714442" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570714284682" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/holiday-finder/fastbuy-app-develop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296738864" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570796029750" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/holiday-finder/holidayFinderPersonalLogin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296711495" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1570892178545" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/data-experiments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.6817.13" />
+              <option name="buildTimestamp" value="1569296752180" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1571123577970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/youtube-backup">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321280639" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1574064902407" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/facebook-new">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321261885" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1574156065061" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/youtube-backup/youtube-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321277885" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1574852584614" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/rodo/TOSHIBA/archive">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321263284" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1576576227895" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/filia">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321296384" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1578046129511" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/groupM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321283302" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1579762610212" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/landing-page">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321254907" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1582201711462" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/raunak101">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-192.7142.35" />
+              <option name="buildTimestamp" value="1572321257625" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1591327410577" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/forthegram-api">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1h1kutsxxnxjgVBZc604Yl8ZU2x">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111042623" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1599213776508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/bert-user-classifier">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1i7pchSIqGF6fO3dBG7Sr1KbX10">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111020589" />
+              <frame x="0" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1601275863112" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/face-api-v2">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1iG8JIuIOZfdDBxIXX7t9fUX7P5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111075863" />
+              <frame x="960" y="27" width="930" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1610088132320" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/agriism-api">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1oW99v9y85Txk8dbQpcxLE7kDTB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111061647" />
+              <frame x="960" y="27" width="960" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1613456804650" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/agriism/agriism-rates-api">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1oYHpgIgEp8Man4vYtTq5uOf6Wi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111026599" />
+              <frame x="594" y="182" width="950" height="789" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1613534474052" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/influencer-x-campaign-api">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ov6LKgW8aepmrwn8sKMbzgznMX">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111069914" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1614154659353" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/bull-arena">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1RgfhHMaajMx7FifNFc8gdPwIXW">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111064645" />
+              <frame x="0" y="27" width="1890" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1616607046050" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/nominatim">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1SdHQkDufCSqcTIRnj6osq5Oqxx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111020789" />
+              <frame x="960" y="27" width="920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1616784417961" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/agriism/agriism-rates-api-master">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1omS8nxYhAPJF01dqg0EThrmAwz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111055197" />
+              <frame x="0" y="27" width="960" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1618076638281" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/influencer-x-backend">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1nxTT3d3byKeppZHgVwyDMDgvbM">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111068941" />
+              <frame x="0" y="27" width="1880" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1619369210786" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/keyword-suggestions">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1mxxTmwCywslyY0TqmXSCiy1srP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111037861" />
+              <frame x="0" y="27" width="1880" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1619441770754" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/tiktok-sage">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1qTKLJhzCUjLXN7pGH87oxcG4XU">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111037861" />
+              <frame x="0" y="27" width="1900" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1619427923267" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/mithra">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1qTDi4LvF8Eb2mZCu1iTbmp5IDz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111037861" />
+              <frame x="0" y="27" width="1900" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1619427954619" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/prism">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1pq1pzCXbTPanfFQfpk6EUQLL7H">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111062953" />
+              <frame x="960" y="27" width="940" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1619499352982" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1rjtCupcfvcdM6YkeKet2baj8iP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8538.32" />
+              <option name="buildTimestamp" value="1594111062953" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1619501202641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/story-report-generator">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1bZNKJhPQdtBLuPWyR08kOyPCSn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.8743.9" />
+              <option name="buildTimestamp" value="1595317489803" />
+              <frame extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1622008623052" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/personal/nextjs-blog">
+          <value>
+            <RecentProjectMetaInfo frameTitle="nextjs-blog – first-post.js" projectWorkspaceId="1uB9IQXJoB5iI06P6VaBJiMRU2a">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7442.26" />
+              <option name="buildTimestamp" value="1621886326449" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1624441003768" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/testing-nest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="testing-nest – app.controller.ts" projectWorkspaceId="1vIhkHw0YdBNp6Zvzn14p8aXkCL">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048278798" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1626256327178" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/face-apis">
+          <value>
+            <RecentProjectMetaInfo frameTitle="face-apis – server-remote-commands.sh" projectWorkspaceId="1SXdMwBF8qZuMN5Ujg2QjYaCdM8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048255603" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1626698571211" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/report-scripts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="report-scripts – tiktok/profileScriptsFunctions.ts" projectWorkspaceId="1mKIZzqwGnE0L7CNHFYT8eixH6R">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048232993" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1627560611069" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/affable-cms">
+          <value>
+            <RecentProjectMetaInfo frameTitle="affable-cms – deployment.yaml" projectWorkspaceId="1vIYOiKnZ0XhsxDm3hD6954OV3d">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048270230" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1628169044604" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/twitter-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="twitter-api – client.messaging.ts" projectWorkspaceId="1s9tUet2udvQ8EOw7CoI8RYJCcM">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048256433" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1628604082027" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/personal/nextjs-notion-starter-kit">
+          <value>
+            <RecentProjectMetaInfo frameTitle="nextjs-notion-starter-kit – noflash.js" projectWorkspaceId="1tP9FrnhqikFAEZDFyDUfQIx6I6">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048225345" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1629698428508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/iceberg">
+          <value>
+            <RecentProjectMetaInfo frameTitle="iceberg – extract.ts" projectWorkspaceId="1RY8KhARkBgPB25dJ2ny9RZXmqD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048225345" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1629698825325" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/youtube-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="youtube-api – channels-service.ts" projectWorkspaceId="1Ralhl3wsuSdQDjPdBwzCeBeqqa">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048225345" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1629781942477" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/krystal">
+          <value>
+            <RecentProjectMetaInfo frameTitle="krystal – app.py" projectWorkspaceId="1V3t8NfKnSSx9AwnsQLJAm8z3Qr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048225345" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1629793418250" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/facebook-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="facebook-api – repeated-jobs.ts" projectWorkspaceId="1Rb6YC8ipmPF2y6qaj3WtsHXJDf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048252604" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1630555835935" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/tiktok">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tiktok – .env" projectWorkspaceId="1c9eKvG3fDAFW2fAmHdBeEEsBF5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048276649" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1632131540051" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/instagram-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="instagram-api – instagram-client-jobs.ts" projectWorkspaceId="1Rfz6jjKv8Z1rJVGd6UErtvf0IB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048259026" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1632480901326" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/creators">
+          <value>
+            <RecentProjectMetaInfo frameTitle="creators – campaign-workflows.entity.ts" opened="true" projectWorkspaceId="1vIhFFW4VbrRBj7e3cJWedYegjw">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048252757" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1633094346217" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/groupm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="groupm – .env" projectWorkspaceId="1YeCFDuUvN4tDDSOH5UENaOTVkK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048245706" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1633066377944" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/fluence-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fluence-api – campaign.influencers.repository.ts" opened="true" projectWorkspaceId="1RXYol5lyUTfFxQ8Pl6TlCXtgbA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048226246" />
+              <frame x="-507" y="218" width="1910" height="789" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1633094346217" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/fluence-ui">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fluence-ui – clients.component.ts" opened="true" projectWorkspaceId="1ti8wgJrlFyrApudfeiHA3FrBIa">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048266841" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1633094346217" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/affable/creators-ui">
+          <value>
+            <RecentProjectMetaInfo frameTitle="creators-ui – Dockerfile" opened="true" projectWorkspaceId="1vhdGSMdW4fQmZ6Bv5S3DTqndqf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-211.7628.25" />
+              <option name="buildTimestamp" value="1625048266841" />
+              <frame x="0" y="27" width="1920" height="1053" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1633094346217" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace" />
+  </component>
+</application>

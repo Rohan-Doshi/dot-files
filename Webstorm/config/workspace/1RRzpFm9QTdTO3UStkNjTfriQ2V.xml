@@ -1,0 +1,349 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/App.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/app-container.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="58" selection-start-column="36" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/components/App.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/react-navigation/typescript/react-navigation.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8169">
+              <caret line="431" column="42" selection-start-line="431" selection-start-column="42" selection-end-line="431" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/@types/react/index.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8988">
+              <caret line="452" column="17" selection-start-line="452" selection-start-column="17" selection-end-line="452" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/components/second.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/holidayFinder/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>process.env.IG_USERNAME</find>
+      <find>process.env.IG_PASSWORD</find>
+      <find>session</find>
+      <find>Text</find>
+      <find>AddTodo</find>
+      <find>ADD_TODO</find>
+      <find>es</find>
+      <find>react-native</find>
+      <find>react-native-gesture-handle</find>
+      <find>react-navigation-stack</find>
+      <find>react-native-gesture-handler</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'doshi.rohan09'</replace>
+      <replace>'rdr0ck509'</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/playground.ts" />
+        <option value="$PROJECT_DIR$/holidayFinder/components/Footer.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/components/Link.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/components/TodoList.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/components/Todo.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/reducers/visibilityFilter.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/containers/AddTodo.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/componenets/App.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/tsconfig.json" />
+        <option value="$PROJECT_DIR$/holidayFinder/navigator.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/components/second.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/app-container.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/App.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/components/App.tsx" />
+        <option value="$PROJECT_DIR$/holidayFinder/package.json" />
+        <option value="$PROJECT_DIR$/holidayFinder/package-lock.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="holiday-finder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holiday-finder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holiday-finder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holiday-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="holidayFinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="holiday-finder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="holiday-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="holidayFinder" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18924618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46666667" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.43444446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/ts-node/package.json" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/feeds/account-followers.feed.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/repositories/account.repository.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/responses/account.repository.login.response.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/core/client.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/repositories/friendship.repository.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/responses/friendship.repository.show.response.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/repositories/location.repository.d.ts" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/core/feed.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/feeds/user.feed.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/instagram-private-api/dist/core/feed.factory.d.ts" />
+    <entry file="file://$PROJECT_DIR$/src/playground.ts" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/components/Footer.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/components/Link.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/@types/react-native/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="2226" column="13" selection-start-line="2226" selection-start-column="13" selection-end-line="2226" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/components/Todo.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/containers/FilterLink.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/containers/VisibleTodoList.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/reducers/index.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/reducers/todos.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/reducers/visibilityFilter.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/components/TodoList.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/actions/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/containers/AddTodo.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/@types/react/global.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11557" column="4" selection-start-line="11557" selection-start-column="4" selection-end-line="11557" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/.watchmanconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/navigator.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/typescript/lib/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="1437" column="5" selection-start-line="1437" selection-start-column="5" selection-end-line="1437" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-navigation-stack/src/views/BorderlessButton.tsx" />
+    <entry file="file://$PROJECT_DIR$/holidayFinder/yarn-error.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/react-navigation-stack/lib/typescript/navigators/createStackNavigator.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/app-container.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/components/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/react-navigation/typescript/react-navigation.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8169">
+          <caret line="431" column="42" selection-start-line="431" selection-start-column="42" selection-end-line="431" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8988">
+          <caret line="452" column="17" selection-start-line="452" selection-start-column="17" selection-end-line="452" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/components/second.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holidayFinder/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

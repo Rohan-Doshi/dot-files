@@ -1,0 +1,1034 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/campaign/campaign.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/campaign/campaign-influencer.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/campaign.interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/proposal.interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/schemas/campaign-workflows.entity.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/schemas/influencer-campaign.entity.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/campaign/campaign.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>InfluencerProductSelection</find>
+      <find>/gifting</find>
+      <find>// NOTE: Mongo Schema has more info like cost and productType but since Isabella</find>
+      <find>title: { type: String, required: true },</find>
+      <find>req</find>
+      <find>request</find>
+      <find>fetch</find>
+      <find>createRequestOptions</find>
+      <find>process.</find>
+      <find>MAGIC_LINK_SECRET</find>
+      <find>API_HOST</find>
+      <find>this.app</find>
+      <find>/HEAL</find>
+      <find>@get</find>
+      <find>../enuy</find>
+      <find>httpse</find>
+      <find>axios</find>
+      <find>firstVal</find>
+      <find>ax</find>
+      <find>/gift</find>
+      <find>build</find>
+      <find>health</find>
+      <find>stop flat experience in</find>
+      <find>creators.api@affable.ai</find>
+      <find>:</find>
+      <find>getPro</find>
+      <find>'</find>
+      <find />
+      <find>propos</find>
+      <find>whoami</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>creator-api</replace>
+      <replace>production</replace>
+      <replace>campaignWorkflow</replace>
+      <replace>=</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/auth/guards</dir>
+      <dir>$PROJECT_DIR$/src/influencers</dir>
+      <dir>$PROJECT_DIR$/src/common</dir>
+      <dir>$PROJECT_DIR$/deploy/production</dir>
+      <dir>$PROJECT_DIR$/src/influencer-campaign</dir>
+      <dir>$PROJECT_DIR$/src/auth/strategies</dir>
+      <dir>$PROJECT_DIR$/src/schemas</dir>
+      <dir>$PROJECT_DIR$/src/core</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/deploy/staging</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/interfaces</dir>
+      <dir>$PROJECT_DIR$/src/campaign</dir>
+      <dir>$PROJECT_DIR$/src/auth/account</dir>
+      <dir>$PROJECT_DIR$/src/auth</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main.ts" />
+      <option value="$PROJECT_DIR$/src/auth/strategies/magic-link.strategy.ts" />
+      <option value="$PROJECT_DIR$/src/influencer-campaign/influencer-campaign.controller.ts" />
+      <option value="$PROJECT_DIR$/src/auth/guards/api-key.guard.ts" />
+      <option value="$PROJECT_DIR$/deploy/production/deployment.yaml" />
+      <option value="$PROJECT_DIR$/deploy/staging/deployment.yaml" />
+      <option value="$PROJECT_DIR$/package-lock.json" />
+      <option value="$PROJECT_DIR$/src/common/types.ts" />
+      <option value="$PROJECT_DIR$/src/common/app.config.service.ts" />
+      <option value="$PROJECT_DIR$/src/auth/guards/jwt-auth.guard.ts" />
+      <option value="$PROJECT_DIR$/src/auth/strategies/jwt.strategy.ts" />
+      <option value="$PROJECT_DIR$/src/common/common.module.ts" />
+      <option value="$PROJECT_DIR$/src/auth/auth.service.ts" />
+      <option value="$PROJECT_DIR$/src/common/request.service.ts" />
+      <option value="$PROJECT_DIR$/techdebt.md" />
+      <option value="$PROJECT_DIR$/src/influencer-campaign/influencer-campaign.dto.ts" />
+      <option value="$PROJECT_DIR$/src/campaign/schemas/campaign-workflows.schema.ts" />
+      <option value="$PROJECT_DIR$/src/influencer-campaign/influencer-campaign.service.ts" />
+      <option value="$PROJECT_DIR$/src/influencer-campaign/schemas/influencer-campaign.schema.ts" />
+      <option value="$PROJECT_DIR$/src/platform/platform.service.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/proposal.interface.ts" />
+      <option value="$PROJECT_DIR$/src/campaign/campaign.service.ts" />
+      <option value="$PROJECT_DIR$/src/schemas/campaign-workflows.entity.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/account.auth.interface.ts" />
+      <option value="$PROJECT_DIR$/src/auth/account/jwtoken.ts" />
+      <option value="$PROJECT_DIR$/src/auth/magic-link.service.ts" />
+      <option value="$PROJECT_DIR$/playground.ts" />
+      <option value="$PROJECT_DIR$/src/app.module.ts" />
+      <option value="$PROJECT_DIR$/src/app.controller.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/src/auth/account/auth-token-request.ts" />
+      <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+      <option value="$PROJECT_DIR$/deploy/production/service.yaml" />
+      <option value="$PROJECT_DIR$/src/interfaces/common.interface.ts" />
+      <option value="$PROJECT_DIR$/src/auth/account/auth-token.service.ts" />
+      <option value="$PROJECT_DIR$/src/auth/auth.module.ts" />
+      <option value="$PROJECT_DIR$/src/core/app.config.service.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/index.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/fluence.api.interface.ts" />
+      <option value="$PROJECT_DIR$/src/campaign/campaign.module.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/campaign.workflow.interface.ts" />
+      <option value="$PROJECT_DIR$/src/enums/campaign.enum.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/campaign.influencer.interface.ts" />
+      <option value="$PROJECT_DIR$/src/schemas/influencer-campaign.entity.ts" />
+      <option value="$PROJECT_DIR$/src/interfaces/campaign.interface.ts" />
+      <option value="$PROJECT_DIR$/src/campaign/campaign-influencer.service.ts" />
+      <option value="$PROJECT_DIR$/src/campaign/campaign.controller.ts" />
+      <option value="$PROJECT_DIR$/src/external-api/external-apis.module.ts" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/src/auth/auth.controller.ts" />
+      <option value="$PROJECT_DIR$/src/external-api/fluence.apis.service.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="staging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nestjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nestjs" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nestjs" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@nestjs" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="passport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="mongoose" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="strategies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="campaign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="influencers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="schemas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creators" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167410000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18255208" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33021653" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33021653" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40403542" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="File Transfer" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.33021653" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.53789365" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.84990156" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.33021653" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" weight="0.33021653" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>TODO</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="802" y="455" width="306" height="203" key="#TSLint" timestamp="1629375308892">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="802" y="455" width="306" height="203" key="#TSLint/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1629375308892" />
+    <state x="538" y="303" width="844" height="575" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632760800824">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="538" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632760800824" />
+    <state x="538" y="303" width="844" height="575" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1627298465735" />
+    <state x="485" y="194" width="860" height="812" key="CommitChangelistDialog2" timestamp="1633094258599">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="485" y="194" width="860" height="812" key="CommitChangelistDialog2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094258599" />
+    <state x="525" y="151" width="860" height="812" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1633033552260" />
+    <state width="598" height="196" key="DebuggerActiveHint" timestamp="1632382558893">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="598" height="196" key="DebuggerActiveHint/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632382558893" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog" timestamp="1633094258978">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094258978" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1630394310426" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1626255651349">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626255651349" />
+    <state width="1898" height="382" key="GridCell.Tab.0.bottom" timestamp="1633094224969">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.0.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224969" />
+    <state width="1898" height="382" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243932" />
+    <state width="1898" height="382" key="GridCell.Tab.0.center" timestamp="1633094224966">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.0.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224966" />
+    <state width="1898" height="382" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243931" />
+    <state width="1898" height="382" key="GridCell.Tab.0.left" timestamp="1633094224965">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.0.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224965" />
+    <state width="1898" height="382" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243930" />
+    <state width="1898" height="382" key="GridCell.Tab.0.right" timestamp="1633094224968">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.0.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224968" />
+    <state width="1898" height="382" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243931" />
+    <state width="1898" height="382" key="GridCell.Tab.1.bottom" timestamp="1633094224973">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.1.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224973" />
+    <state width="1898" height="382" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243934" />
+    <state width="1898" height="382" key="GridCell.Tab.1.center" timestamp="1633094224971">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.1.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224971" />
+    <state width="1898" height="382" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243933" />
+    <state width="1898" height="382" key="GridCell.Tab.1.left" timestamp="1633094224970">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.1.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224970" />
+    <state width="1898" height="382" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243932" />
+    <state width="1898" height="382" key="GridCell.Tab.1.right" timestamp="1633094224972">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.1.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224972" />
+    <state width="1898" height="382" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243933" />
+    <state width="1898" height="382" key="GridCell.Tab.2.bottom" timestamp="1633094224977">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.2.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224977" />
+    <state width="1898" height="382" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1633034244085" />
+    <state width="1898" height="382" key="GridCell.Tab.2.center" timestamp="1633094224975">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.2.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224975" />
+    <state width="1898" height="382" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1633034244084" />
+    <state width="1898" height="382" key="GridCell.Tab.2.left" timestamp="1633094224974">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.2.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224974" />
+    <state width="1898" height="382" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1633034244084" />
+    <state width="1898" height="382" key="GridCell.Tab.2.right" timestamp="1633094224976">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.2.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224976" />
+    <state width="1898" height="382" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1633034244085" />
+    <state width="1898" height="382" key="GridCell.Tab.3.bottom" timestamp="1633094224983">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.3.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224983" />
+    <state width="1898" height="382" key="GridCell.Tab.3.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243937" />
+    <state width="1898" height="382" key="GridCell.Tab.3.center" timestamp="1633094224980">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.3.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224980" />
+    <state width="1898" height="382" key="GridCell.Tab.3.center/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243937" />
+    <state width="1898" height="382" key="GridCell.Tab.3.left" timestamp="1633094224978">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.3.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224978" />
+    <state width="1898" height="382" key="GridCell.Tab.3.left/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243936" />
+    <state width="1898" height="382" key="GridCell.Tab.3.right" timestamp="1633094224981">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="382" key="GridCell.Tab.3.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094224981" />
+    <state width="1898" height="382" key="GridCell.Tab.3.right/0.27.1920.1053@0.27.1920.1053" timestamp="1633034243937" />
+    <state x="2" y="27" width="1721" height="969" key="MergeDialog" timestamp="1632313863941">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="2" y="27" width="1721" height="969" key="MergeDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632313863941" />
+    <state x="187" y="117" width="1536" height="879" key="MergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1627298241511" />
+    <state x="592" y="308" width="726" height="497" key="MultipleFileMergeDialog" timestamp="1629710774972">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="592" y="308" width="726" height="497" key="MultipleFileMergeDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1629710774972" />
+    <state x="732" y="174" width="453" height="765" key="RollbackChangesDialog" timestamp="1632314345135">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="732" y="174" width="453" height="765" key="RollbackChangesDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632314345135" />
+    <state x="732" y="174" width="446" height="765" key="RollbackChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1627298248420" />
+    <state x="746" y="170" width="418" height="774" key="VCS.ChangeListViewerDialog" timestamp="1628142064646">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="746" y="170" width="418" height="774" key="VCS.ChangeListViewerDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1628142064646" />
+    <state x="793" y="425" width="324" height="264" key="VCS.EditChangelistDialog" timestamp="1629276083479">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="793" y="425" width="324" height="264" key="VCS.EditChangelistDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1629276083479" />
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1633094376761">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094376761" />
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1633033553937" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1633023934192">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1633023934192" />
+    <state x="75" y="536" width="1720" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1632314115873">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="536" width="1720" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632314115873" />
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1633074447047">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633074447047" />
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1633028158238" />
+    <state x="526" y="150" width="857" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1633033868103">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="526" y="150" width="857" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1629275736589" />
+    <state x="526" y="150" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1633033868103" />
+    <state x="739" y="466" width="441" height="188" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633094337896">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="739" y="466" width="441" height="188" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633094337896" />
+    <state x="739" y="466" width="441" height="188" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1633032943628" />
+    <state x="652" y="276" width="691" height="590" key="find.popup" timestamp="1633088523650">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="652" y="276" width="691" height="590" key="find.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633088523650" />
+    <state x="652" y="276" width="596" height="552" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1633031223893" />
+    <state x="685" y="185" width="539" height="743" key="git4idea.branch.GitSmartOperationDialog" timestamp="1632313812541">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="685" y="185" width="539" height="743" key="git4idea.branch.GitSmartOperationDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632313812541" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1633027476805">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1632901673363" />
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1633027476805" />
+    <state x="623" y="259" width="672" height="686" key="search.everywhere.popup" timestamp="1633088546812">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="686" key="search.everywhere.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1633088546812" />
+    <state x="623" y="259" width="672" height="686" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1633032407881" />
+    <state x="286" y="289" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1627475671764">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="286" y="289" key="vcs.ApplyPatchDifferentiatedDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1627475671764" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/playground.ts" />
+    <entry file="file://$PROJECT_DIR$/src/auth/magic-link.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/auth/account/auth-token-request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-fetch/@types/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="19634" column="65" lean-forward="true" selection-start-line="19634" selection-start-column="65" selection-end-line="19634" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rxjs/src/internal/Observable.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="466" column="46" selection-start-line="466" selection-start-column="38" selection-end-line="466" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@nestjs/axios/dist/http.service.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/guards/jwt-auth.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" column="77" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/production/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/production/service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/logger.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/production/config.enc.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/influencers/shipping.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/influencers/influencers.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="4" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/influencers/influencers.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/influencers/shipping.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="131" column="6" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rxjs/src/internal/firstValueFrom.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/request.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@nestjs/core/injector/injector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="188" column="18" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/common.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/account.auth.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/fluence.api.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/campaign.enum.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/campaign.influencer.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/account/auth-token-request.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" column="65" lean-forward="true" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/app.config.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-734">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/core.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/external-api/external-apis.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/external-api/fluence.apis.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="103" selection-start-line="15" selection-start-column="103" selection-end-line="15" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/account/auth-token.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/campaign.workflow.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/campaign/campaign.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auth/auth.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/campaign/campaign-influencer.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/campaign.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/proposal.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schemas/campaign-workflows.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schemas/influencer-campaign.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/campaign/campaign.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/campaign/campaign.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

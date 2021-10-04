@@ -1,0 +1,266 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/server/config/index.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>facebook-recurring-jobs</find>
+      <find>b9brajcnvfpl5pep</find>
+      <find>youtu</find>
+      <find>&quot;youtube-influencer-jobs&quot;</find>
+      <find>Stacktraces</find>
+      <find>jobDeta</find>
+      <find>'bull'</find>
+      <find>'</find>
+      <find>'failed'</find>
+      <find>reason for f</find>
+      <find>jobDetails</find>
+      <find>job</find>
+      <find>options</find>
+      <find>iceberg-new-redis-cluster-do-user-5076038-0.a.db.ondigitalocean.com</find>
+      <find>hn682qf0soyp4ymx</find>
+      <find>iceberg-redis-cluster-do-user-5076038-0.b.db.ondigitalocean.com</find>
+      <find>tiktok</find>
+      <find>tiktok-redis-cluster-do-user-5076038-0.a.db.ondigitalocean.com</find>
+      <find>52.221.149.174</find>
+      <find>7J6MOThg9bM1</find>
+      <find>youtube-redis-cluster-do-user-5076038-0.db.ondigitalocean.com</find>
+      <find>25061</find>
+      <find>rcuwlc21nqkwpvkj</find>
+      <find>co2kzn7bel8gd7wm</find>
+      <find>10.9.192.19</find>
+      <find>323bf641-df13-4c43-be10-c084400005ef</find>
+      <find>AWS Server</find>
+      <find>10.9.192.27</find>
+      <find>10.9.192.35</find>
+      <find>10.9.192.11</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>youtube-redis-cluster-do-user-5076038-0.db.ondigitalocean.com</replace>
+      <replace>pypj94knd3wp3xab</replace>
+      <replace>iceberg-redis-cluster-do-user-5076038-0.b.db.ondigitalocean.com</replace>
+      <replace>10.9.192.27</replace>
+      <replace>edff811b-c5f8-4586-a027-3b7d90be82c1</replace>
+      <replace>10.9.192.19</replace>
+      <replace>6379</replace>
+      <replace>c2be177b-6d0a-46f0-ab77-52c0983d691e</replace>
+      <replace>323bf641-df13-4c43-be10-c084400005ef</replace>
+      <replace>GCP REDIS</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/server/views/layout.hbs" />
+        <option value="$PROJECT_DIR$/src/server/queue/index.js" />
+        <option value="$PROJECT_DIR$/src/server/views/partials/dashboard/jobDetails.hbs" />
+        <option value="$PROJECT_DIR$/src/server/config/test2.json" />
+        <option value="$PROJECT_DIR$/src/server/config/index.json" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="27" width="1890" height="1053" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bull" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bull" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bull-arena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bull-arena" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29158000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295964" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.50333333" side_tool="true" weight="0.18819188" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49666667" visible="true" weight="0.20506062" />
+      <window_info anchor="bottom" id="Flow" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/server/views/layout.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/dashboard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/dashboard/jobDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bull/lib/getters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bee-queue/lib/queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11032">
+          <caret line="394" column="2" selection-start-line="394" selection-start-column="2" selection-end-line="394" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/queue/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/dashboard/queueDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/dashboard/templates/queueJobsByState.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/dashboard/queueJobsByState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/partials/dashboard/jobDetails.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2059">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/config/test2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="361" column="5" lean-forward="true" selection-start-line="361" selection-start-column="5" selection-end-line="361" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/config/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,729 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/youtube/scripts.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8850">
+              <caret line="300" column="10" selection-start-line="296" selection-start-column="8" selection-end-line="300" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playground.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6990">
+              <caret line="239" column="62" selection-start-line="239" selection-start-column="62" selection-end-line="239" selection-end-column="62" />
+              <folding>
+                <element signature="e#29#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/tiktok/scripts.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8610">
+              <caret line="291" column="61" selection-start-line="291" selection-start-column="61" selection-end-line="291" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/tiktok/profileScriptsFunctions.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/youtube/profileScriptsFunctions.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="84" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/facebook/profileScriptsFunctions.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/store/cassandra.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/instagram/profileScriptsFunctions.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2190">
+              <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/instagram/scripts.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11700">
+              <caret line="395" column="95" selection-start-line="390" selection-start-column="12" selection-end-line="395" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ts-ing</find>
+      <find>1617148800000</find>
+      <find>1601510400000</find>
+      <find>interestsDistribution</find>
+      <find>laneigesg</find>
+      <find>done</find>
+      <find>innisfreesingapore</find>
+      <find>,</find>
+      <find>&quot;username&quot;</find>
+      <find>&quot;postUrl&quot;</find>
+      <find>username</find>
+      <find>:</find>
+      <find>engag</find>
+      <find>Engag</find>
+      <find>avg</find>
+      <find>Top</find>
+      <find>audi</find>
+      <find>au</find>
+      <find>addLocationFilter</find>
+      <find>distr</find>
+      <find>location</find>
+      <find>deep</find>
+      <find>inter</find>
+      <find>from'</find>
+      <find>2020 q1</find>
+      <find>brandM</find>
+      <find>top</find>
+      <find>bran</find>
+      <find>grow</find>
+      <find>enga</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_.deepClone(baseQuery)</replace>
+      <replace>cloneDeep</replace>
+      <replace>youtube-channels-v2</replace>
+      <replace>this.contentScriptsFunctions.filterMediaDocuments()</replace>
+      <replace>id</replace>
+      <replace>&quot;id&quot;</replace>
+      <replace>date  &lt;</replace>
+      <replace>2020 q4 vs 2019 q4</replace>
+      <replace>fs.writeFileSync('', JSON</replace>
+      <replace>_shared.json', JSON.stringify</replace>
+      <replace>_es_all_usernames.json</replace>
+      <replace>start</replace>
+      <replace>=</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/scripts/instagram/scripts.ts" />
+      <option value="$PROJECT_DIR$/scripts/facebook/scripts.ts" />
+      <option value="$PROJECT_DIR$/scripts/youtube/profileScriptsFunctions.ts" />
+      <option value="$PROJECT_DIR$/playground.ts" />
+      <option value="$PROJECT_DIR$/scripts/youtube/scripts.ts" />
+      <option value="$PROJECT_DIR$/scripts/tiktok/profileScriptsFunctions.ts" />
+      <option value="$PROJECT_DIR$/scripts/tiktok/scripts.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="960" y="27" width="960" height="1053" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tslint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tslint" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tslint" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="tslint" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rules" type="462c0819:PsiDirectoryNode" />
+              <item name="completed-docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="instagram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="tiktok" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="report-scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="report-scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-136" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196392000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24244791" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5002636" side_tool="true" weight="0.52130044" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973643" weight="0.45816928" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="File Transfer" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49973643" weight="0.41683072" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.37107623" />
+      <window_info anchor="bottom" id="Flow" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3957399" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="525" y="52" width="860" height="1010" key="CommitChangelistDialog2" timestamp="1618789716665">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="525" y="52" key="CommitChangelistDialog2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1618789716665" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog" timestamp="1626969856116">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1626969856116" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1627018158225">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626767685493" />
+    <state x="743" y="311" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1627018158225" />
+    <state width="1898" height="395" key="GridCell.Tab.0.bottom" timestamp="1627285950559">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="395" key="GridCell.Tab.0.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626895325530" />
+    <state width="1898" height="395" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1627285950559" />
+    <state width="1898" height="395" key="GridCell.Tab.0.center" timestamp="1627285950557">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="395" key="GridCell.Tab.0.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626895325530" />
+    <state width="1898" height="395" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1627285950557" />
+    <state width="1898" height="395" key="GridCell.Tab.0.left" timestamp="1627285950555">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="395" key="GridCell.Tab.0.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626895325529" />
+    <state width="1898" height="395" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1627285950555" />
+    <state width="1898" height="395" key="GridCell.Tab.0.right" timestamp="1627285950558">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1898" height="395" key="GridCell.Tab.0.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626895325530" />
+    <state width="1898" height="395" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1627285950558" />
+    <state width="1898" height="437" key="GridCell.Tab.1.bottom" timestamp="1627285739525">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.1.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739525" />
+    <state width="1898" height="437" key="GridCell.Tab.1.center" timestamp="1627285739523">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.1.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739523" />
+    <state width="1898" height="437" key="GridCell.Tab.1.left" timestamp="1627285739523">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.1.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739523" />
+    <state width="1898" height="437" key="GridCell.Tab.1.right" timestamp="1627285739524">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.1.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739524" />
+    <state width="1898" height="437" key="GridCell.Tab.2.bottom" timestamp="1627285739531">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.2.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739531" />
+    <state width="1898" height="437" key="GridCell.Tab.2.center" timestamp="1627285739527">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.2.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739527" />
+    <state width="1898" height="437" key="GridCell.Tab.2.left" timestamp="1627285739526">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.2.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739526" />
+    <state width="1898" height="437" key="GridCell.Tab.2.right" timestamp="1627285739529">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.2.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739529" />
+    <state width="1898" height="437" key="GridCell.Tab.3.bottom" timestamp="1627285739536">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.3.bottom/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.3.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739536" />
+    <state width="1898" height="437" key="GridCell.Tab.3.center" timestamp="1627285739534">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.3.center/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.3.center/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739534" />
+    <state width="1898" height="437" key="GridCell.Tab.3.left" timestamp="1627285739533">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.3.left/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.3.left/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739533" />
+    <state width="1898" height="437" key="GridCell.Tab.3.right" timestamp="1627285739535">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="381" key="GridCell.Tab.3.right/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620330763027" />
+    <state width="1898" height="437" key="GridCell.Tab.3.right/0.27.1920.1053@0.27.1920.1053" timestamp="1627285739535" />
+    <state x="713" y="174" width="483" height="765" key="RollbackChangesDialog" timestamp="1620106953181">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="713" y="174" width="483" height="765" key="RollbackChangesDialog/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1620106953181" />
+    <state width="567" height="816" key="SwitcherDM" timestamp="1626969881212">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="567" height="816" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1626969881212" />
+    <state x="731" y="170" width="447" height="774" key="VCS.ChangeListViewerDialog" timestamp="1626969713362">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="731" y="170" width="447" height="774" key="VCS.ChangeListViewerDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1626969713362" />
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1618789718990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="285" key="Vcs.Push.Dialog.v2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1618789718990" />
+    <state x="483" y="154" width="857" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626971051431">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="483" y="154" width="857" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626769309964" />
+    <state x="483" y="154" width="857" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1626971051431" />
+    <state x="729" y="466" width="461" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626970243736">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="729" y="466" width="461" height="181" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626765884729" />
+    <state x="729" y="466" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1626970243736" />
+    <state x="652" y="276" width="691" height="608" key="find.popup" timestamp="1626970243861">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="652" y="276" width="691" height="608" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1626970243861" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1626895071607">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626895071607" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1627024416094">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/0.27.1920.1053@0.27.1920.1053" timestamp="1626767025669" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1627024416094" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>infl.audienceStatistics</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>infl.infl.audienceStatistics</expression-string>
+        <language-id>TypeScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/neo4j-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/histogram/bucket.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/histogram/age-histogram.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/common/common.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="246" column="14" selection-start-line="246" selection-start-column="14" selection-end-line="246" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/common/collection.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/youtube/contentScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/common/lang.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4592">
+          <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/youtube/followers-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/tiktok/contentScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="51" column="87" selection-start-line="51" selection-start-column="87" selection-end-line="51" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/facebook/contentScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/tiktok/followers-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.csv" />
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36876">
+          <caret line="1330" column="4" selection-start-line="1330" selection-start-column="4" selection-end-line="1330" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.json" />
+    <entry file="file://$PROJECT_DIR$/value.json" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/op.txt" />
+    <entry file="file://$PROJECT_DIR$/Thailand_shared.json" />
+    <entry file="file://$PROJECT_DIR$/Singapore_shared.json" />
+    <entry file="file://$PROJECT_DIR$/Indonesia_shared.json" />
+    <entry file="file://$PROJECT_DIR$/Taiwan_shared.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/elasticsearch/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16716">
+          <caret line="612" column="8" selection-start-line="612" selection-start-column="8" selection-end-line="612" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/facebook/followers-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/instagram/follower-count-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/common/math.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laneigesg,innisfreesingapore,cliniquesg,kiehlssg,cetaphilsg,thebodyshopsg,bioresg,etudesingapore,innisfreesingapore,maccosmeticssg,benefitcosmeticssg,laneigesg_sponsored_data.json" />
+    <entry file="file://$PROJECT_DIR$/innisfreesingapore_sponsored_data.json" />
+    <entry file="file://$PROJECT_DIR$/laneigesg_not_sponsored_data.json" />
+    <entry file="file://$PROJECT_DIR$/laneigesg_sponsored_data.json" />
+    <entry file="file://$PROJECT_DIR$/shopee_username.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupm.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/store/elasticsearch.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allContentForInfluencers.json" />
+    <entry file="file://$PROJECT_DIR$/allInfluencerBasicAndFollowingData.json" />
+    <entry file="file://$PROJECT_DIR$/allBrandsRelatedData.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/constructorExclusion.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/instagram/contentScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pksToRun.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/facebook/scripts.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2670">
+          <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/youtube/scripts.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8850">
+          <caret line="300" column="10" selection-start-line="296" selection-start-column="8" selection-end-line="300" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playground.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6990">
+          <caret line="239" column="62" selection-start-line="239" selection-start-column="62" selection-end-line="239" selection-end-column="62" />
+          <folding>
+            <element signature="e#29#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/tiktok/scripts.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8610">
+          <caret line="291" column="61" selection-start-line="291" selection-start-column="61" selection-end-line="291" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/youtube/profileScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="84" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/facebook/profileScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/store/cassandra.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/instagram/profileScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/instagram/scripts.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11700">
+          <caret line="395" column="95" selection-start-line="390" selection-start-column="12" selection-end-line="395" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/tiktok/profileScriptsFunctions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
